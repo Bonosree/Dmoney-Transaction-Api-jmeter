@@ -65,8 +65,11 @@ Follow the steps and create JMX file  for the given scenario:
 https://documenter.getpostman.com/view/1844288/2s9YeABaGp
 
 ## Output :
-
-![My Image](![image](https://github.com/Bonosree/Dmoney-Transaction-Api-jmeter/assets/59661684/36aaebb7-51a2-4cbd-bf34-ee01c04ced11)
+![My Image]![image](https://github.com/Bonosree/Dmoney-Transaction-Api-jmeter/assets/59661684/27b0ce8b-a9ed-4837-abc1-4f2c150c81c1) 
+![My Image](![image](https://github.com/Bonosree/Dmoney-Transaction-Api-jmeter/assets/59661684/6442c1d4-bb73-4c01-9748-69147ec859a8)
 )
+
+
+
 
 
